@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ThelxstPage
 - 👀 I’m interested in creating software for games
-- 🌱 I’m currently learning lua, c#, c++, galang
+- 🌱 I’m currently learning lua, c#, c++, golang
 - 
 
 <!---
